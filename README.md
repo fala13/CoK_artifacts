@@ -2,7 +2,7 @@ Hacked and compiled cg-brutaltester with hacked and compiled Code of Kutulu refe
 
 https://github.com/dreignier/cg-brutaltester
 
-https://github.com/pedouard/cotc-referee
+https://github.com/JohnnyGuye/code-of-kutulu
 
 
 Example run, substitute players with your runnable player command:
